@@ -1,0 +1,1 @@
+TradeNova - Telegram Mini App
